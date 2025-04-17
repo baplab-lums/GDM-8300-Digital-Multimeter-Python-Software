@@ -16,6 +16,19 @@ This Python-based Jupyter Notebook app allows you to connect to one or two **GW 
 
 ---
 
+## Install required packages
+Make sure you're using a Python environment with Jupyter installed.
+
+pip install -r requirements.txt
+
+Or manually:
+
+pip install pyvisa ipywidgets pandas matplotlib openpyxl
+Note: For USB instruments, we recommend NI-VISA
+
+![image](https://github.com/user-attachments/assets/ed7def5e-dd48-4369-93dd-dd65f216f772)
+
+
 ## 📓 Usage
 
 1. Launch Jupyter Notebook or Lab
@@ -26,7 +39,8 @@ This Python-based Jupyter Notebook app allows you to connect to one or two **GW 
    - SCPI command (default: `READ?`)
 4. Press **Start** to begin logging
 
----
+Results will be auto-saved at the end in your chosen format
+
 
 ## 📁 Output Format
 
