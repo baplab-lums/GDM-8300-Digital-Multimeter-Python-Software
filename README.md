@@ -46,5 +46,5 @@ MIT License — feel free to fork, improve, or adapt.
 
 ## 🙌 Acknowledgments
 
-Built for lab data logging with ❤️ by [Your Name].  
+Built for lab data logging by Haris Hassan.  
 Contributions welcome!
